@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/endless-ui/static/css/main.edc38b86.css",
+    "main.js": "/endless-ui/static/js/main.b95d6340.js",
+    "static/media/photo-couch_2x.jpg": "/endless-ui/static/media/photo-couch_2x.0db18f79ef0042a56edd.jpg",
+    "static/media/photo-couch.jpg": "/endless-ui/static/media/photo-couch.849417d95eeab9296564.jpg",
+    "static/media/Lato-Light.ttf": "/endless-ui/static/media/Lato-Light.c7400fcad9e48ca9043f.ttf",
+    "static/media/Lato-Regular.ttf": "/endless-ui/static/media/Lato-Regular.9d883d540ee2b4de8024.ttf",
+    "static/media/Lato-Bold.ttf": "/endless-ui/static/media/Lato-Bold.636be8de934918e38ed9.ttf",
+    "static/media/logo-endless.svg": "/endless-ui/static/media/logo-endless.ad7300e7665397c68294ba64d7406123.svg",
+    "index.html": "/endless-ui/index.html",
+    "main.edc38b86.css.map": "/endless-ui/static/css/main.edc38b86.css.map",
+    "main.b95d6340.js.map": "/endless-ui/static/js/main.b95d6340.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.edc38b86.css",
+    "static/js/main.b95d6340.js"
+  ]
+}
