@@ -1,0 +1,25 @@
+@font-face {
+    font-family: Lato-Regular;
+    src: url(/src/fonts/Lato-Regular.ttf);
+}
+
+@font-face {
+    font-family: Lato-Light;
+    src: url(/src/fonts/Lato-Light.ttf);
+}
+
+.font-lato {
+    font-family: 'Lato-Regular';
+}
+
+.font-lato-light {
+    font-family: 'Lato-Light';
+}
+
+.font-white {
+    color: #ffffff;
+}
+
+.font-dark-gray {
+    color: #2f3237;
+}
